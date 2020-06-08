@@ -1,16 +1,19 @@
-# coronainfo
+# Coronainfo application
 
-A new Flutter application.
+### The App provide the information all over the :earth_asia: word about Corona Virus (COVID-19)
 
-## Getting Started
+Show some love :smiley: by hit :point_right: Star :star: :star: :star:
+## Created by 
+[Josiah Mpokera](https://github.com/Josiahmpokera) | [Instagram](https://www.instagram.com/josiah__yesayah/) | [Twitter](https://twitter.com/Josiah_dev)
 
-This project is a starting point for a Flutter application.
+## Screenshot
+<img src="Screenshot_1591656797.png" height="300em" /> <img src="Screenshot_1591656805.png" height="300em" />
 
-A few resources to get you started if this is your first Flutter project:
+Your can test this app to your **mashine..** :stuck_out_tongue_winking_eye: :stuck_out_tongue_winking_eye:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+:warning: :warning: :warning: **NoMoreBugs** :laughing: :laughing:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you want to get started with Flutter, don't waste a time 
+[Flutter Documentation](https://flutter.dev/docs),
+
+:heart::heart::heart: **We** **love** **to** **Code**
